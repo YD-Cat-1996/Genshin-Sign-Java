@@ -1,3 +1,3 @@
-参考：https://github.com/YD-Cat/genshin-sign
+参考：https://github.com/sirodeneko/genshin-sign
 
 Genshin-Sign的Java实现
